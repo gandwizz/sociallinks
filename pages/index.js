@@ -38,7 +38,7 @@ const Index = ({ data }) => {
 
                 <div className='text-center py-4 '>
                 Projeto criado durante o evento Dev10k do <a href='hhtps://devpleno.com'>DevPleno </a> <br/>
-                Código-fonte Disponível em:...
+                Código-fonte Disponível em:<a href="https://github.com/gandwizz/sociallinks"> https://github.com/gandwizz/sociallinks></a>
             </div>
             </div>
     </div> 
